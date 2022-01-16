@@ -19,7 +19,7 @@ X-bank has noticed that 30% of its total credits is in default, especially the o
 | Files                          | Description | 
 | :---                           |    :----:     | 
 |Jupyter_Notebooks/Exploration_Data_Analysis.ipynb | Exploration_Data_Analysis | 
-|Jupyter_Notebooks/ML_tunning.ipynb                | Parameter tunning        | 
+|Jupyter_Notebooks/ML_tunning.ipynb                | Parameter tunning and model selection    | 
 |Jupyter_Notebooks/ML_PCA.ipynb                    | Playing with more metrics. Skippable _— alot of redundant code—_ |
 |data/ Not included                    | [Download data here](https://raw.githubusercontent.com/ibmsoe/snap-ml/master/notebooks/credit-default-prediction-example.ipynb) | 
 
