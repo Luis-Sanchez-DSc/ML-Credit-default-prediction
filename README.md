@@ -52,6 +52,3 @@ X-bank has noticed that 30% of its total credits is in default, especially the o
 Luis Sánchez
 -----------
 
-Note: This excersice was based on this one :
-https://github.com/ibmsoe/snap-ml/blob/master/notebooks/credit-default-prediction-example.ipynb
-
