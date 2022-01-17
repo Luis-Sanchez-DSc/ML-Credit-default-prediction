@@ -1,5 +1,5 @@
 # _Once upon a time in... everywhere_
-> That day, Juan entered his house slamming the door behind him. 
+> That day, Juan stepped into his house slamming the door behind him. 
 > He turned on the fan in the living room, opened the fridge and grabbed an ice-cold beer. 
 > After a long sip, he began pacing the room like a caged lion, 
 > his fingers tightening around the bottle. After a few more sips, 
